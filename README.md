@@ -125,3 +125,4 @@ Para executar esta playbook, bastaria digitar:
 ```bash
 ansible-playbook -i inventario.ini -u root --private-key chave playbook.yml
 ```
+# ansible-basico
